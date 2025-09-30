@@ -6,7 +6,7 @@ To implement the linked list data structure in C++.
 - VS Code   
 ### Program 1  
 #### Theory and Explanation  
-This program introduces the basics of a linked list by creating a `Node` class in C++. Each node contains an integer value and a pointer to the next node, forming the foundation for pointer-based connectivity. Two nodes are dynamically allocated and linked to create a chain, and a `display()` method outputs their contents and linkage status. This example emphasizes memory allocation and object-oriented concepts—ideal for beginners learning dynamic data structures.[1][4][5][6]
+This program introduces the basics of a linked list by creating a `Node` class in C++. Each node contains an integer value and a pointer to the next node, forming the foundation for pointer-based connectivity. Two nodes are dynamically allocated and linked to create a chain, and a `display()` method outputs their contents and linkage status. This example emphasizes memory allocation and object-oriented concepts—ideal for beginners learning dynamic data structures.
 
 #### Algorithm  
 - Define a `Node` class with data and next fields  
@@ -30,8 +30,4 @@ Here, a singly linked list is implemented with dynamic memory allocation and hea
 - End  
 
 ### Conclusion  
-Both programs demonstrate the fundamental principles of singly linked lists in C++, including dynamic memory management, pointer-based node linking, and modular function design. Whether using a simple two-node chain or repeatedly inserting at the head, these samples illustrate how data structures can be constructed, manipulated, and traversed efficiently. Using OOP practices like encapsulation in the node class and reusable methods such as `display()` and `insert_head()` provides a solid foundation for advanced operations such as deletion, tail insertion, or full encapsulation in further object-oriented designs.[4][6][1][3]
-
-[7](https://www.youtube.com/watch?v=6wXZ_m3SbEs)
-[8](https://www.youtube.com/watch?v=N6dOwBde7-M)
-[9](https://www.w3schools.com/dsa/dsa_theory_linkedlists.php)
+Both programs demonstrate the fundamental principles of singly linked lists in C++, including dynamic memory management, pointer-based node linking, and modular function design. Whether using a simple two-node chain or repeatedly inserting at the head, these samples illustrate how data structures can be constructed, manipulated, and traversed efficiently. Using OOP practices like encapsulation in the node class and reusable methods such as `display()` and `insert_head()` provides a solid foundation for advanced operations such as deletion, tail insertion, or full encapsulation in further object-oriented designs
