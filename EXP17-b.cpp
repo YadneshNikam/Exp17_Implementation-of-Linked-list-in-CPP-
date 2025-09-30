@@ -1,6 +1,5 @@
-//Harsh kumar
-//24070123146
-//B3
+//yadnesh nikam
+//24070123134
 
 #include <iostream>
 using namespace std;
@@ -50,4 +49,5 @@ int main() {
 100 -> NULL
 200 -> 100 -> NULL
 300 -> 200 -> 100 -> NULL
+
 */
